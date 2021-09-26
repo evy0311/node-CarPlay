@@ -1,15 +1,15 @@
 {
   "name": "node-carplay",
-  "version": "1.0.14",
+  "version": "1.0.10",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "node-carplay",
-      "version": "1.0.14",
+      "version": "1.0.10",
       "license": "ISC",
       "dependencies": {
-        "usb": "^1.7.2"
+        "usb": "^1.7.1"
       }
     },
     "node_modules/ansi-regex": {
@@ -26,9 +26,9 @@
       "integrity": "sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw=="
     },
     "node_modules/are-we-there-yet": {
-      "version": "1.1.7",
-      "resolved": "https://registry.npmjs.org/are-we-there-yet/-/are-we-there-yet-1.1.7.tgz",
-      "integrity": "sha512-nxwy40TuMiUGqMyRHgCSWZ9FM4VAoRP4xUYSTv5ImRog+h9yISPbVH7H8fASCIzYn9wlEv4zvFL7uKDMCFQm3g==",
+      "version": "1.1.5",
+      "resolved": "https://registry.npmjs.org/are-we-there-yet/-/are-we-there-yet-1.1.5.tgz",
+      "integrity": "sha512-5hYdAkZlcG8tOLujVDTgCT+uPX0VnpAH28gWsLfzpXYm7wP6mp5Q/gYyR7YQ0cKVJcXJnl3j2kpBan13PtQf6w==",
       "dependencies": {
         "delegates": "^1.0.0",
         "readable-stream": "^2.0.6"
@@ -126,9 +126,9 @@
       "integrity": "sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4="
     },
     "node_modules/core-util-is": {
-      "version": "1.0.3",
-      "resolved": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz",
-      "integrity": "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ=="
+      "version": "1.0.2",
+      "resolved": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.2.tgz",
+      "integrity": "sha1-tf1UIgqivFq1eqtxQMlAdUUDwac="
     },
     "node_modules/decompress-response": {
       "version": "4.2.1",
@@ -288,9 +288,9 @@
       "integrity": "sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg=="
     },
     "node_modules/node-abi": {
-      "version": "2.30.1",
-      "resolved": "https://registry.npmjs.org/node-abi/-/node-abi-2.30.1.tgz",
-      "integrity": "sha512-/2D0wOQPgaUWzVSVgRMx+trKJRC2UG4SUc4oCJoXx9Uxjtp0Vy3/kt7zcbxHF8+Z/pK3UloLWzBISg72brfy1w==",
+      "version": "2.30.0",
+      "resolved": "https://registry.npmjs.org/node-abi/-/node-abi-2.30.0.tgz",
+      "integrity": "sha512-g6bZh3YCKQRdwuO/tSZZYJAw622SjsRfJ2X0Iy4sSOHZ34/sPPdVBn8fev2tj7njzLwuqPw9uMtGsGkO5kIQvg==",
       "dependencies": {
         "semver": "^5.4.1"
       }
@@ -429,9 +429,9 @@
       "integrity": "sha1-BF+XgtARrppoA93TgrJDkrPYkPc="
     },
     "node_modules/signal-exit": {
-      "version": "3.0.4",
-      "resolved": "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.4.tgz",
-      "integrity": "sha512-rqYhcAnZ6d/vTPGghdrw7iumdcbXpsk1b8IG/rz+VWV51DM0p7XCtMoJ3qhPLIbp3tvyt3pKRbaaEMZYpHto8Q=="
+      "version": "3.0.3",
+      "resolved": "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.3.tgz",
+      "integrity": "sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA=="
     },
     "node_modules/simple-concat": {
       "version": "1.0.1",
@@ -553,9 +553,9 @@
       }
     },
     "node_modules/usb": {
-      "version": "1.7.2",
-      "resolved": "https://registry.npmjs.org/usb/-/usb-1.7.2.tgz",
-      "integrity": "sha512-SfVSItgsD9+YfEpcK1UZ8tQ7e8GdxQ0xoQtB773omNBKTVj3IuFJNKjwSnpE58FGcV4tUoKLHmBMc018RUY5SA==",
+      "version": "1.7.1",
+      "resolved": "https://registry.npmjs.org/usb/-/usb-1.7.1.tgz",
+      "integrity": "sha512-HTCfx6NnNRhv5y98t04Y8j2+A8dmQnEGxCMY2/zN/0gkiioLYfTZ5w/PEKlWRVUY+3qLe9xwRv9pHLkjQYNw/g==",
       "hasInstallScript": true,
       "dependencies": {
         "bindings": "^1.4.0",
@@ -563,7 +563,7 @@
         "prebuild-install": "^5.3.3"
       },
       "engines": {
-        "node": ">=10"
+        "node": ">=6"
       }
     },
     "node_modules/util-deprecate": {
@@ -602,9 +602,9 @@
       "integrity": "sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw=="
     },
     "are-we-there-yet": {
-      "version": "1.1.7",
-      "resolved": "https://registry.npmjs.org/are-we-there-yet/-/are-we-there-yet-1.1.7.tgz",
-      "integrity": "sha512-nxwy40TuMiUGqMyRHgCSWZ9FM4VAoRP4xUYSTv5ImRog+h9yISPbVH7H8fASCIzYn9wlEv4zvFL7uKDMCFQm3g==",
+      "version": "1.1.5",
+      "resolved": "https://registry.npmjs.org/are-we-there-yet/-/are-we-there-yet-1.1.5.tgz",
+      "integrity": "sha512-5hYdAkZlcG8tOLujVDTgCT+uPX0VnpAH28gWsLfzpXYm7wP6mp5Q/gYyR7YQ0cKVJcXJnl3j2kpBan13PtQf6w==",
       "requires": {
         "delegates": "^1.0.0",
         "readable-stream": "^2.0.6"
@@ -670,9 +670,9 @@
       "integrity": "sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4="
     },
     "core-util-is": {
-      "version": "1.0.3",
-      "resolved": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz",
-      "integrity": "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ=="
+      "version": "1.0.2",
+      "resolved": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.2.tgz",
+      "integrity": "sha1-tf1UIgqivFq1eqtxQMlAdUUDwac="
     },
     "decompress-response": {
       "version": "4.2.1",
@@ -794,9 +794,9 @@
       "integrity": "sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg=="
     },
     "node-abi": {
-      "version": "2.30.1",
-      "resolved": "https://registry.npmjs.org/node-abi/-/node-abi-2.30.1.tgz",
-      "integrity": "sha512-/2D0wOQPgaUWzVSVgRMx+trKJRC2UG4SUc4oCJoXx9Uxjtp0Vy3/kt7zcbxHF8+Z/pK3UloLWzBISg72brfy1w==",
+      "version": "2.30.0",
+      "resolved": "https://registry.npmjs.org/node-abi/-/node-abi-2.30.0.tgz",
+      "integrity": "sha512-g6bZh3YCKQRdwuO/tSZZYJAw622SjsRfJ2X0Iy4sSOHZ34/sPPdVBn8fev2tj7njzLwuqPw9uMtGsGkO5kIQvg==",
       "requires": {
         "semver": "^5.4.1"
       }
@@ -917,9 +917,9 @@
       "integrity": "sha1-BF+XgtARrppoA93TgrJDkrPYkPc="
     },
     "signal-exit": {
-      "version": "3.0.4",
-      "resolved": "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.4.tgz",
-      "integrity": "sha512-rqYhcAnZ6d/vTPGghdrw7iumdcbXpsk1b8IG/rz+VWV51DM0p7XCtMoJ3qhPLIbp3tvyt3pKRbaaEMZYpHto8Q=="
+      "version": "3.0.3",
+      "resolved": "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.3.tgz",
+      "integrity": "sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA=="
     },
     "simple-concat": {
       "version": "1.0.1",
@@ -1011,9 +1011,9 @@
       }
     },
     "usb": {
-      "version": "1.7.2",
-      "resolved": "https://registry.npmjs.org/usb/-/usb-1.7.2.tgz",
-      "integrity": "sha512-SfVSItgsD9+YfEpcK1UZ8tQ7e8GdxQ0xoQtB773omNBKTVj3IuFJNKjwSnpE58FGcV4tUoKLHmBMc018RUY5SA==",
+      "version": "1.7.1",
+      "resolved": "https://registry.npmjs.org/usb/-/usb-1.7.1.tgz",
+      "integrity": "sha512-HTCfx6NnNRhv5y98t04Y8j2+A8dmQnEGxCMY2/zN/0gkiioLYfTZ5w/PEKlWRVUY+3qLe9xwRv9pHLkjQYNw/g==",
       "requires": {
         "bindings": "^1.4.0",
         "node-addon-api": "3.0.2",
